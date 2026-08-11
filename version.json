@@ -1,7 +1,7 @@
 {
-  "code_version": 20,
+  "code_version": 21,
   "code_zip": "https://raw.githubusercontent.com/aocampoloaiza-droid/descargador-fe-dian/main/codigo.zip",
   "runtime_version": 1,
   "full_zip": "",
-  "notas": ""
+  "notas": "v21 · Arreglada la busqueda por CUFE: ahora encuentra los documentos especificos que pegas (busca mes por mes) — ya no dice 'No encontrado' cuando si estan en la DIAN."
 }
