@@ -1,7 +1,7 @@
 {
-  "code_version": 22,
-  "code_zip": "https://raw.githubusercontent.com/aocampoloaiza-droid/descargador-fe-dian/main/codigo.zip",
+  "code_version": 23,
+  "code_zip": "https://raw.githubusercontent.com/aolcontable/descargador-fe-dian/main/codigo.zip",
   "runtime_version": 1,
   "full_zip": "",
-  "notas": "v22 · Buscar por CUFE ahora deja elegir la fecha o rango donde buscar: más rápido, y permite bajar documentos de hace años."
+  "notas": "v23 · Si el token de la DIAN vence a mitad de una descarga, la app se pausa y pide uno nuevo: pégalo y sigue donde iba, sin repetir lo ya bajado."
 }
