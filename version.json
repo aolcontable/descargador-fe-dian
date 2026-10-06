@@ -1,7 +1,7 @@
 {
-  "code_version": 23,
+  "code_version": 24,
   "code_zip": "https://raw.githubusercontent.com/aolcontable/descargador-fe-dian/main/codigo.zip",
   "runtime_version": 1,
   "full_zip": "",
-  "notas": "v23 · Si el token de la DIAN vence a mitad de una descarga, la app se pausa y pide uno nuevo: pégalo y sigue donde iba, sin repetir lo ya bajado."
+  "notas": "v24 · Vuelve a encontrar los documentos (la DIAN cambió su consulta y la app veía 0), reintenta cuando la DIAN está saturada en vez de dar 0, y botones para pausar y cancelar una descarga."
 }
